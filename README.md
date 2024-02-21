@@ -1,0 +1,1 @@
+# Sindragosa_GUID
