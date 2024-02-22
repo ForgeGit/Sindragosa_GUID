@@ -5,7 +5,8 @@ _Vivax (Pagle-US) -_ `Discfordge` _(Discord)_
 
 
 Sindragosa, queen of the Frostbrood and final boss of the Frostwing Hall at the Icecrown Citadel (ICC), can be “cheesed”. 
-Its ability Icy Grip can be avoided, and in this document, I explain in detail how to fully ignore it (making it so _**nobody**_ gets pulled) utilizing the Unique ID of Players (GUID), in the Classic version of World of Warcraft: Wrath of the Lich King (as of February 2024).
+
+Its ability [Icy Grip](https://www.wowhead.com/wotlk/spell=70117/icy-grip) can be avoided, and in this document, I explain in detail how to fully ignore it (making it so _**nobody**_ gets pulled) utilizing the Unique ID of Players (GUID), in the Classic version of World of Warcraft: Wrath of the Lich King (as of February 2024).
 
 ## **SUMMARY**
 ### **Tl;dr**
@@ -24,7 +25,7 @@ Ignoring Icy Grip has been known since 2010, when the raid and the encounter wer
 
 The “cheese” to ignore this mechanic entirely relies on a melee DPS <sup>or anyone? Not confirmed if a ranged DPS can do it, at least I haven’t confirmed this personally. Can someone check this? Thanks</sup> standing on the center of Sindragosa hitbox. This causes Icy Grip to not pull/suck your raid into her hitbox. 
 
-<img src="_img/cheese_visual.jpg" /> <br />
+<img src="_img/cheese_visual.ppg" /> <br />
 
 This by itself doesn’t guarantee _**everyone**_ in your raid from ignoring the mechanic, and these “exceptions” are related to the GUID of the characters in your raid.
 In short, if the lowest/oldest character in your raid stands under Sindragosa, nobody gets gripped.
@@ -36,23 +37,23 @@ https://classic.warcraftlogs.com/reports/ftk82FZgKnvW7rYd#fight=36
 
 When not “cheesing” Icy Grip, your entire raid gets pulled into Sindragosa. This leads to lower uptime (and lower DPS) across the entire raid.
 
-![Alt Text](url_to_gif)
+![No Cheese](https://raw.githubusercontent.com/ForgeGit/Sindragosa_GUID/main/_img/nocheese_example.gif?token=GHSAT0AAAAAACKWZB6ONUVLR4BFQWTBQLQGZOXLJNA)
 
 In contrast, this is how it looks like when properly cheesing the mechanic. Only a few people get pulled into Sindragosa hitbox.
 
-![Alt Text](url_to_gif)
+![Cheese](https://raw.githubusercontent.com/ForgeGit/Sindragosa_GUID/main/_img/cheese_example.gif?token=GHSAT0AAAAAACKWZB6PJ56ZM6RCFSVDYOK2ZOXLJWA)
 
 There is one thing to highlight here: 
 
 There were five (5) players getting pulled/dragged into Sindragosa hitbox. This example has 2 “cheesers” (however, you can do this with one (1) cheeser and it will work just fine).
 
-<img src="_img/zoom_in_example.jpg" /> <br />
+<img src="_img/zoom_in_example.png" /> <br />
 
 The five (5) players still getting gripped into Sindragosa hitbox are getting gripped despite the cheese because their GUIDs (or gameIDs) are lower/older than those of the players doing the “cheese”.
 
 As can be seen in the following table.
 
-<img src="_img/GUID_table.jpg" /> <br />
+<img src="_img/GUID_table.png" /> <br />
 
 To the best of my knowledge, you can retrieve the GUIDs of your guild with the following command: 
 ```
@@ -62,5 +63,5 @@ This will print most of the oldest/lowest GUIDs of your guild in your chat windo
 
 Alternatively, you can look up the gameID of the characters in your log with the “Mage Analyzer” tool, or directly from [woodchopper website](https://classic.warcraftlogs.com/) API if [you know what you are doing.](https://www.warcraftlogs.com/api/docs)
 
-<img src="_img/Magelyzer.jpg" /> <br />
+<img src="_img/Magelyzer.png" /> <br />
 
