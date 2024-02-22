@@ -13,7 +13,7 @@ The ability [Icy Grip](https://www.wowhead.com/wotlk/spell=70117/icy-grip) can b
 
 **YOU WANT THE OLDEST CHARACTER IN YOUR RAID (LOWEST GUID) TO DO THE CHEESE.**
 
-_(I don't know if it matters if it is a caster or melee, yet. Sorry.)_
+_(I don't know if it is possible for a caster to cheese this? yet? Sorry.)_
 
 **YOU CAN CHECK THE GUIDs OF YOUR RAID YOURSELF AT https://wotlk-mage.herokuapp.com/**
 
