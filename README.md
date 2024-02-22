@@ -12,6 +12,7 @@ The ability [Icy Grip](https://www.wowhead.com/wotlk/spell=70117/icy-grip) can b
 ### **Tl;dr**
 
 **YOU WANT THE OLDEST CHARACTER IN YOUR RAID (LOWEST GUID) TO DO THE CHEESE**
+**YOU CAN CHECK THE GUIDs OF YOUR RAID YOURSELF AT https://wotlk-mage.herokuapp.com/**
 
 -	30s into the fight and every 30s after each air phase, Sindragosa casts Icy Grip, which pulls (read: sucks) your raid into the boss hitbox. 
 
@@ -66,7 +67,24 @@ To the best of my knowledge, you can retrieve the GUIDs of your guild with the f
 This will print most <sub>sometimes not all</sub> of the oldest/lowest GUIDs of your guild in your chat window.
 You can then copy this information into an excel by using the add-on Prat (Select chat as text -> Ctrl + A -> Ctrl + C)
 
-Alternatively, you can look up the gameID of the characters in your log with the “Mage Analyzer” tool, or directly from [woodchopper website](https://classic.warcraftlogs.com/) API if [you know what you are doing.](https://www.warcraftlogs.com/api/docs)
+Alternatively, you can look up the gameID of the characters in your log with the [“Mage Analyzer” tool](https://wotlk-mage.herokuapp.com/), or directly from [woodchopper website](https://classic.warcraftlogs.com/) API if [you know what you are doing.](https://www.warcraftlogs.com/api/docs)
 
 <img src="_img/Magelyzer.png" /> <br />
 
+## Acknowledgments 
+
+Thanks whispar [whispar] and Reprieve [r3pr13v3] at Fight Club for convincing me that Sindragosa cheese was in fact influenced by GUID. 
+Louki [l0uki] for the comments and insights.
+Shekza [dead_if_read] at Classic Hunter Lodge for the in-game GUID code and Teucer [justevan] for making me question what we knew about the cheese and indirectly making me write this document.
+
+## Banner
+
+<img src="_img/banner3.jpg" /> <br />
+
+## Other analysis and random stuff
+
+- If you have questions, you can contact me on discord: https://discord.gg/wp55kqmyYG (Discord: Discfordge) <br />
+
+- Consider buying me a coffee? :) https://ko-fi.com/forge
+
+- Or check other things I have done here: https://github.com/ForgeGit?tab=repositories
