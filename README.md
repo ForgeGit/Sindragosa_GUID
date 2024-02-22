@@ -11,6 +11,8 @@ The ability [Icy Grip](https://www.wowhead.com/wotlk/spell=70117/icy-grip) can b
 ## **SUMMARY**
 ### **Tl;dr**
 
+**YOU WANT THE OLDEST CHARACTER IN YOUR RAID (LOWEST GUID) TO DO THE CHEESE**
+
 -	30s into the fight and every 30s after each air phase, Sindragosa casts Icy Grip, which pulls (read: sucks) your raid into the boss hitbox. 
 
 -	Whenever someone stands in the center of Sindragosa hitbox, _**most**_ of the raid will completely ignore the Icy Grip (this is the “cheese”). However, sometimes some people get pulled despite the “cheese”.
