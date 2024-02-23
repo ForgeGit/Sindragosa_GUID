@@ -4,7 +4,7 @@ _Vivax (Pagle-US) -_ `Discfordge` _(Discord)_
 
 The following document details how to maximize and optimize the "cheese" to avoid getting pulled by the ability "Icy Grip" during the encounter with "Sindragosa", final boss of the Frostwing Hall at the Icecrown Citadel (ICC).
 
-You can guarantee that **nobody** will get pulled into her hutbox by knowing the GUIDs of your raid. 
+You can guarantee that **nobody** will get pulled into her hitbox by knowing the GUIDs of your raid. 
 
 This was written for the Classic version of World of Warcraft: Wrath of the Lich King (as of February 2024).
 
