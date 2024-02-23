@@ -1,14 +1,14 @@
-# 🧀Sindragosa Cheese🧀 - GUID 101<br/><br/>
+# 🧀Sindragosa Cheese🧀 - GUID 101<br/>
 
 _Vivax (Pagle-US) -_ `Discfordge` _(Discord)_
 
+The following document details how to maximize and optimize the "cheese" to avoid getting pulled by the ability "Icy Grip" during the encounter with "Sindragosa", final boss of the Frostwing Hall at the Icecrown Citadel (ICC).
 
-
-Sindragosa, queen of the Frostbrood and final boss of the Frostwing Hall at the Icecrown Citadel (ICC), can be “cheesed”. 
-
-The ability [Icy Grip](https://www.wowhead.com/wotlk/spell=70117/icy-grip) can be avoided, and in this document, I explain in detail how to fully ignore it making use of the Unique ID of Players (GUID), making it so _**nobody**_ gets pulled.
+You can guarantee that **nobody** will get pulled into her hutbox by knowing the GUIDs of your raid. 
 
 This was written for the Classic version of World of Warcraft: Wrath of the Lich King (as of February 2024).
+
+<img src="_img/Icygrip.png" /> <br />
 
 ## **SUMMARY**
 ### **Tl;dr**
