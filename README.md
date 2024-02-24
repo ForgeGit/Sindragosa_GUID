@@ -13,9 +13,9 @@ This was written for the Classic version of World of Warcraft: Wrath of the Lich
 ## **SUMMARY**
 ### **Tl;dr**
 
-**YOU WANT THE OLDEST CHARACTER IN YOUR RAID (LOWEST GUID) TO DO THE CHEESE.**
+**YOU WANT THE OLDEST CHARACTER IN YOUR RAID (LOWEST GUID) TO DO THE "CHEESE".**
 
-_(I don't know if it is possible for a caster to cheese this? yet? Sorry.)_
+**CASTER/RANGED ARE ALSO ABLE TO DO THE "CHEESE"**
 
 **YOU CAN CHECK THE GUIDs OF YOUR RAID YOURSELF AT https://wotlk-mage.herokuapp.com/**
 
@@ -30,7 +30,7 @@ _(I don't know if it is possible for a caster to cheese this? yet? Sorry.)_
 
 Ignoring Icy Grip has been known since 2010, when the raid and the encounter were first released, as seen in a [YouTube video explaining how to do the "cheese"](https://www.youtube.com/watch?v=CqIjp4BNY8c&t=37s) and its respective [forum post](https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-exploits/297916-how-avoid-icy-grip-before-blistering-cold-sindragosa.html).
 
-The “cheese” to ignore this mechanic entirely relies on a melee DPS <sup>or anyone? Not confirmed if a ranged DPS can do it, at least I haven’t confirmed this personally. Can someone check this? Thanks</sup> standing on the center of Sindragosa hitbox. 
+The “cheese” to ignore this mechanic entirely relies on a melee DPS ([or caster/ranged, that also works](https://classic.warcraftlogs.com/reports/Zp1rJWLjkmn4byw7#fight=34&view=replay)) standing on the center of Sindragosa hitbox. 
 This causes Icy Grip to not pull/suck your raid into her hitbox. 
 
 <img src="_img/cheese_visual.png" /> <br />
@@ -82,6 +82,12 @@ Alternatively, you can look up the gameID of the characters in your log with the
 <img src="_img/Magelyzer.png" /> <br />
 
 The app extracts the gameID from logs uploaded to [Woodchopper website](https://classic.warcraftlogs.com/). You can extract these yourself through their API if [you know what you are doing.](https://www.warcraftlogs.com/api/docs)
+
+## Additional information
+
+The "cheese" is commonly done by melee DPS, either by one (1) melee DPS or by making the entirety of your melee DPS wiggle/stack on Sindragosa.
+
+However, ranged/caster characters can also successfully "cheese" Icy Grip. All it needs to do is position itself inside Sindy hitbox.
 
 ## Acknowledgments 
 
